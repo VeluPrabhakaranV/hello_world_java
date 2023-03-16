@@ -1,6 +1,6 @@
 version: '3.3'
 services:
   hello-world-jar:
-    image: "hello-world-jar:latest"
+    image: "veluprabhakaranv/hello-world-jar:latest"
     ports:
       - 443:443
